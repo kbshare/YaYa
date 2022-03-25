@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "44DBC82F-333F-41F0-B6A1-8EA0868DF121"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F02C996A-FF29-4716-B121-C1B6B91B16F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/KBFPSLabel.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "-tick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9316B060-0578-4A6A-83C4-663CAD134FCD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/UIView+HSToast.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "-breakGifWithName:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A41C13E6-B372-4075-BB40-E0F63D553F07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/UIView+HSToast.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "-breakGifWithName:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3CCB208-F2D6-4D8F-9FA0-940327C4E015"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/HSToastTool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "+bundleWithBundleName:podName:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3CCB208-F2D6-4D8F-9FA0-940327C4E015 - eb77080a64ca398"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool bundleWithBundleName:podName:]"
+                  moduleName = "YaYa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "E3CCB208-F2D6-4D8F-9FA0-940327C4E015 - 7dde59491dac5ce9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool bundleWithBundleName:podName:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16E61665-DD34-46A6-AD9E-594A11A5C238"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/HSToastTool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "+bundleWithBundleName:podName:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "16E61665-DD34-46A6-AD9E-594A11A5C238 - eb77080a64ca2e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool bundleWithBundleName:podName:]"
+                  moduleName = "YaYa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "16E61665-DD34-46A6-AD9E-594A11A5C238 - 7dde59491dac5d95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool bundleWithBundleName:podName:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C73D5430-EED1-4D3F-B8A3-5A31B96C771D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/HSToastTool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "+imageFromStatus:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C73D5430-EED1-4D3F-B8A3-5A31B96C771D - b8faf269ebab0b2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool imageFromStatus:]"
+                  moduleName = "YaYa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "C73D5430-EED1-4D3F-B8A3-5A31B96C771D - cb93dba0504bf45a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool imageFromStatus:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C813D3E5-E473-416E-9E43-769D4ED9B007"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/SVP/HSToastTool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "+imageFromStatus:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C813D3E5-E473-416E-9E43-769D4ED9B007 - b8faf269ebab07ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool imageFromStatus:]"
+                  moduleName = "YaYa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "C813D3E5-E473-416E-9E43-769D4ED9B007 - cb93dba0504bf8df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[HSToastTool imageFromStatus:]"
+                  moduleName = "eval101.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a58/Desktop/PROGECT/YaYa/YaYa/Controllers/Chat%EF%BC%88%E8%81%8A%E5%A4%A9%EF%BC%89/SVP/HSToastTool.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79C4082-3B0A-41CD-B293-A91EF6405C18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/ChatController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

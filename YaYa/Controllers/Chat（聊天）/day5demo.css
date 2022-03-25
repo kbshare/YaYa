@@ -1,0 +1,29 @@
+.gitlab {
+    position: relative;
+    left: 20px;
+    background-color: aquamarine;
+}
+.a {
+    font: 100px;
+    text-align: center;
+}
+p {
+background-color: royalblue;
+}
+.title {
+    background-color: burlywood;
+
+}
+
+
+h3 {
+    background-color: rgb(187, 64, 64);
+}
+
+.hr {
+    height: 20px;
+}
+ol {
+height: 40px;
+
+}

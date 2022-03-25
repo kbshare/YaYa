@@ -1,0 +1,53 @@
+PODS:
+  - iRate (1.12.2)
+  - KVOController (1.2.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.7.5)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+  - YYCache (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - iRate
+  - KVOController
+  - Masonry
+  - MBProgressHUD (from `../MBProgressHUD`)
+  - MJRefresh
+  - ReactiveObjC
+  - SDWebImage
+  - YYCache
+  - YYText
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - iRate
+    - KVOController
+    - Masonry
+    - MJRefresh
+    - ReactiveObjC
+    - SDWebImage
+    - YYCache
+    - YYText
+
+EXTERNAL SOURCES:
+  MBProgressHUD:
+    :path: "../MBProgressHUD"
+
+SPEC CHECKSUMS:
+  iRate: 4fc69958788624545e5d050c8ffd20884013c3f1
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: cc257a5c5944ce1e39338f170190a5f55175919f
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 979820f23bb255e7d3b9fe070ddd57773154b573
+
+COCOAPODS: 1.10.1

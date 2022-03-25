@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iuz-Ri-ewi" customClass="AboutHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="250" height="250"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="aboutWeChat" translatesAutoresizingMaskIntoConstraints="NO" id="YJi-iJ-UPV">
+                    <rect key="frame" x="75" y="55" width="100" height="100"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="100" id="MLI-nn-O61"/>
+                        <constraint firstAttribute="height" constant="100" id="zWj-dM-vex"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="微信v6.6.6" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dcc-8s-0ap">
+                    <rect key="frame" x="84.5" y="165.5" width="81" height="20.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="dcc-8s-0ap" firstAttribute="centerX" secondItem="iuz-Ri-ewi" secondAttribute="centerX" id="ETU-7H-GK3"/>
+                <constraint firstItem="dcc-8s-0ap" firstAttribute="top" secondItem="YJi-iJ-UPV" secondAttribute="bottom" constant="10" id="YjO-tE-XRB"/>
+                <constraint firstItem="YJi-iJ-UPV" firstAttribute="centerX" secondItem="iuz-Ri-ewi" secondAttribute="centerX" id="g1B-0E-Hor"/>
+                <constraint firstItem="YJi-iJ-UPV" firstAttribute="centerY" secondItem="iuz-Ri-ewi" secondAttribute="centerY" constant="-20" id="iKa-rF-RbJ"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="317" y="-160"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="aboutWeChat" width="152" height="152"/>
+    </resources>
+</document>
