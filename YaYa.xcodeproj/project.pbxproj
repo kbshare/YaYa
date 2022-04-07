@@ -32,6 +32,7 @@
 		04FFED7F24D40254006D176E /* MGJRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FFED7E24D40254006D176E /* MGJRouter.m */; };
 		371D374A278EBB7800153D04 /* UIImage+KBGif.m in Sources */ = {isa = PBXBuildFile; fileRef = 371D3749278EBB7800153D04 /* UIImage+KBGif.m */; };
 		373E9E0727870CB1009F36C8 /* a.gif in Resources */ = {isa = PBXBuildFile; fileRef = 373E9E0627870CB0009F36C8 /* a.gif */; };
+		3750E18F27F2F3F9006F864F /* KBYYModelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3750E18E27F2F3F9006F864F /* KBYYModelViewController.m */; };
 		375977CE277204D400ACF3B1 /* KBSVProgressController.m in Sources */ = {isa = PBXBuildFile; fileRef = 375977CD277204D400ACF3B1 /* KBSVProgressController.m */; };
 		375977D22772055800ACF3B1 /* AYHSVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 375977D02772055800ACF3B1 /* AYHSVProgressHUD.m */; };
 		375977DC2772056400ACF3B1 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 375977D62772056300ACF3B1 /* SVProgressHUD.m */; };
@@ -217,6 +218,8 @@
 		371D3748278EBB7800153D04 /* UIImage+KBGif.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+KBGif.h"; sourceTree = "<group>"; };
 		371D3749278EBB7800153D04 /* UIImage+KBGif.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KBGif.m"; sourceTree = "<group>"; };
 		373E9E0627870CB0009F36C8 /* a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = a.gif; sourceTree = "<group>"; };
+		3750E18D27F2F3F9006F864F /* KBYYModelViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KBYYModelViewController.h; sourceTree = "<group>"; };
+		3750E18E27F2F3F9006F864F /* KBYYModelViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KBYYModelViewController.m; sourceTree = "<group>"; };
 		375977CC277204D400ACF3B1 /* KBSVProgressController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KBSVProgressController.h; sourceTree = "<group>"; };
 		375977CD277204D400ACF3B1 /* KBSVProgressController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KBSVProgressController.m; sourceTree = "<group>"; };
 		375977D02772055800ACF3B1 /* AYHSVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AYHSVProgressHUD.m; sourceTree = "<group>"; };
@@ -817,6 +820,8 @@
 				37CC3BE42795113100A239AE /* View */,
 				C3F103AA21381185004CD7AB /* ChatController.h */,
 				C3F103AB21381185004CD7AB /* ChatController.m */,
+				3750E18D27F2F3F9006F864F /* KBYYModelViewController.h */,
+				3750E18E27F2F3F9006F864F /* KBYYModelViewController.m */,
 				37CC3BF42795172500A239AE /* SwiftPerson.swift */,
 				375977CC277204D400ACF3B1 /* KBSVProgressController.h */,
 				375977CD277204D400ACF3B1 /* KBSVProgressController.m */,
@@ -1349,6 +1354,7 @@
 				C3F1044F21381185004CD7AB /* AboutHeaderView.m in Sources */,
 				C35F3EB12240D30D002D0AE5 /* KBStaticOtherViewController.m in Sources */,
 				04A64732238E2C94003BCB8A /* KBKVOController.m in Sources */,
+				3750E18F27F2F3F9006F864F /* KBYYModelViewController.m in Sources */,
 				C3F1044A21381185004CD7AB /* XHImageViewer.m in Sources */,
 				C3F103FC21381185004CD7AB /* NSMutableArray+Safe.m in Sources */,
 				C3F1041C21381185004CD7AB /* UIImage+Category.m in Sources */,

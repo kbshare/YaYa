@@ -27,6 +27,8 @@ pod 'YYCache'
 #pod 'SVProgressHUD'
 #pod 'MLeaksFinder'
 pod 'ReactiveObjC'
+pod 'YYModel'
+#pod 'KBPermissionWrapper'
 #pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
 
 

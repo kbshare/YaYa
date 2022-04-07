@@ -247,16 +247,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "B79C4082-3B0A-41CD-B293-A91EF6405C18"
+            uuid = "F7A092BF-940B-4B31-82D8-8370A5039BE3"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/ChatController.m"
+            filePath = "YaYa/Controllers/Chat&#xff08;&#x804a;&#x5929;&#xff09;/KBYYModelViewController.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "73"
-            endingLineNumber = "73"
-            landmarkName = "-viewDidLoad"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-yymodel"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

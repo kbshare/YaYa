@@ -34,6 +34,7 @@
 #import "KBSVProgressController.h"
 #import "YaYa-Bridging-Header.h"
 #import "YaYa-Swift.h"
+#import "KBYYModelViewController.h"
 @interface ChatController ()<UIScrollViewDelegate,UITableViewDelegate,UITableViewDataSource>
 
 @property (nonatomic,weak)UIView *coverView;
@@ -260,6 +261,10 @@
             @{
                 @"title":@"SVProgress使用",
                 @"vc":@"KBSVProgressController"
+            },
+            @{
+                @"title":@"YYModel使用",
+                @"vc":@"KBYYModelViewController"
             },
             
             @{

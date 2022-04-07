@@ -9,6 +9,7 @@ PODS:
     - SDWebImage/Core (= 5.12.1)
   - SDWebImage/Core (5.12.1)
   - YYCache (1.0.4)
+  - YYModel (1.0.4)
   - YYText (1.0.7)
 
 DEPENDENCIES:
@@ -20,6 +21,7 @@ DEPENDENCIES:
   - ReactiveObjC
   - SDWebImage
   - YYCache
+  - YYModel
   - YYText
 
 SPEC REPOS:
@@ -31,6 +33,7 @@ SPEC REPOS:
     - ReactiveObjC
     - SDWebImage
     - YYCache
+    - YYModel
     - YYText
 
 EXTERNAL SOURCES:
@@ -46,8 +49,9 @@ SPEC CHECKSUMS:
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
   SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
   YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
 
-PODFILE CHECKSUM: 979820f23bb255e7d3b9fe070ddd57773154b573
+PODFILE CHECKSUM: a29e5af40bcbf8adc004d25bda9774d178c965f7
 
 COCOAPODS: 1.10.1
